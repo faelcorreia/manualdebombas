@@ -1,9 +1,9 @@
 # Manual de Bombas
-Tradução pt_BR para o manual do jogo Keep Talking and Nobody Explodes
+TraduÃ§Ã£o pt_BR para o manual do jogo Keep Talking and Nobody Explodes
 
-### Mudanças na página HTML original
+### MudanÃ§as na pÃ¡gina original
 
-- Removidas referências a sites externos, com exceção da Fonte da Google
-- Na seção Sequências de Fios:
-	- Alterados os números ordinais de extenso para numeral visando aproveitar o tamanho da tabela.
-	- Quebrada a linha do título da tabela para igualar os três.
+- Removidas referÃªncias a sites externos, com exceÃ§Ã£o da Fonte da Google
+- Na seÃ§Ã£o SequÃªncias de Fios:
+	- Alterados os nÃºmeros ordinais de extenso para numeral visando aproveitar o tamanho da tabela.
+	- Quebrada a linha do tÃ­tulo da tabela para igualar os trÃªs.
