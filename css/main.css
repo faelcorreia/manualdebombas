@@ -232,14 +232,14 @@ td, th {
 }
 @media print {
     .page {
-        margin: 0;
+        margin: 10px 0 0 0;
         border: none;
         box-shadow: none;
         max-width: none;
         min-height: initial;
 
         width: 51em; /* = 8.5in at 12pt (1em) */
-        height: 66em; /* = 11in at 12pt (1em) */
+        height: 65em; /* = 11in at 12pt (1em) */
         page-break-before: always;
     }
 }
